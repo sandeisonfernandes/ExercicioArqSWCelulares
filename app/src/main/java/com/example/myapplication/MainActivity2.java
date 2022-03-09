@@ -18,5 +18,9 @@ public class MainActivity2 extends AppCompatActivity {
             Intent in = new Intent(this, MainActivity3.class);
             startActivity(in);
         });
+
+        Intent intent = new Intent(this,MyIntentService.class);
+        intent.putExtra("TELA","tela 2");
+        startService(intent);
     }
 }
