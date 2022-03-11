@@ -3,4 +3,10 @@
     <string name="botao1">Chama a Activity 2</string>
     <string name="botao2">Chama a Activity 3</string>
     <string name="botao3">Chama a Activity 4</string>
+
+    <string name="tela1">Tela 1</string>
+    <string name="tela2">Tela 2</string>
+    <string name="tela3">Tela 3</string>
+
+
 </resources>

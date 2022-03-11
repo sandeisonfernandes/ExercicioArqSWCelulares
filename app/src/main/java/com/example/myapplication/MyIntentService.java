@@ -23,7 +23,7 @@ public class MyIntentService extends IntentService {
     @Override
     public void onDestroy(){
         super.onDestroy();
-        Log.d("HSS","service on destroy");
+        Log.d("SSF","service on destroy");
     }
 
 }
