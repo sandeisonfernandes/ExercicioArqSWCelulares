@@ -8,5 +8,18 @@
     <string name="tela2">Tela 2</string>
     <string name="tela3">Tela 3</string>
 
+    <string name="contato1">Exibir Contato 1</string>
+    <string name="contato2">Exibir Contato 2</string>
+    <string name="contato3">Exibir Contato 3</string>
+
+    <string name="exibeContato1">Aperto o Botão acima para exibir o Contato 1</string>
+    <string name="exibeContato2">Aperto o Botão acima para exibir o Contato 2</string>
+    <string name="exibeContato3">Aperto o Botão acima para exibir o Contato 3</string>
+
+    <string name="msg_sem_permissao">Infelizmente não podemos completar a operação</string>
+
+
+
+
 
 </resources>
